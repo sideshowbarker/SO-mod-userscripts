@@ -476,7 +476,7 @@ function initModMessageHelper() {
     $('.js-chat-ad-link').closest('.s-sidebarwidget').remove();
     
     // Make submit button focus after tabbing out of textarea
-    $('.js-submit-button').attr('tabindex','999') 
+    $('.js-submit-button').attr('tabindex','999');
 
     // Move generic warning to sidebar
     $('#mainbar > .s-notice.s-notice__warning').prependTo($('#sidebar')).find('#confirm-new').text((i, v) => v.trim());
