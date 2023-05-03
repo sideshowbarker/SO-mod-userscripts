@@ -762,6 +762,7 @@ We're writing in reference to your ${sitename} account:
 ${userLink}
 
 {optionalSuspensionAutoMessage}
+
 `;
 
     const messageSuffix = ``;
