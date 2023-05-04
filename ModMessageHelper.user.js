@@ -747,11 +747,13 @@ We're writing in reference to your ${sitename} account:
 
 ${userLink}
 
+`;
+
+    const messageSuffix = `
+
 {optionalSuspensionAutoMessage}
 
 `;
-
-    const messageSuffix = ``;
 
     const messageSignature = `
 
@@ -910,6 +912,8 @@ ${userLink}
 
 `;
     const messageSuffix = additionalInfo + `
+    
+{optionalSuspensionAutoMessage}
 
 Regards,  \n${modName}  \n${sitename} moderator`;
 
