@@ -302,9 +302,11 @@ If you do include a link to something, then the link needs to be directly releva
     templateName: "AI banned",
     suspensionReason: "for rule violations",
     suspensionDefaultDays: 7,
-    templateBody: `The use of AI as a source for content on ${parentName} is currently banned. Please see the Meta Stack Overflow question "[Temporary policy: ChatGPT is banned](https://meta.stackoverflow.com/q/421831)". It is not permitted for you to use AI to create any content anywhere on ${parentName} during this ban.
+    templateBody: `The use of AI as a source for content on ${parentName} is [banned](https://meta.stackoverflow.com/q/421831). Using AI for creating any content anywhere on ${parentName} is completely prohibited.
 
-Some, many, or all of your posts may have been or will be deleted. If you believe we are in error regarding a specific post, then feel free to raise an "in need of moderator intervention" flag on that post explaining the issue, and request the post be re-evaluated. You can find links to your deleted posts from your "[deleted questions](${parentUrl}/users/deleted-questions/current)" and your "[deleted answers](${parentUrl}/users/deleted-answers/current)" pages. Links to the above-mentioned deleted post pages can be found at the bottom of the respective [questions](${parentUrl}/users/current?tab=questions) and [answers](${parentUrl}/users/current?tab=answers) tabs in your profile.`,
+Some or all of your posts may have been deleted (or will be). Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
+
+If you believe a specific post should not have been deleted, you can raise an _"In need of moderator intervention"_ flag on that post, with an explanation, and you can request the deletion be re-evaluated.`,
   },
   {
     templateName: "voluntary suspension",
