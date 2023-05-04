@@ -302,7 +302,7 @@ If you do include a link to something, then the link needs to be directly releva
     templateName: "AI banned",
     suspensionReason: "for rule violations",
     suspensionDefaultDays: 7,
-    templateBody: `The use of AI as a source for content on ${parentName} is [banned](https://meta.stackoverflow.com/q/421831). Using AI for creating any content anywhere on ${parentName} is completely prohibited.
+    templateBody: `Using AI in creating any content posted anywhere on ${parentName} is [completely prohibited](https://meta.stackoverflow.com/q/421831).
 
 Some or all of your posts may have been deleted (or will be). Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
 
