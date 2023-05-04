@@ -751,9 +751,7 @@ ${userLink}
 
     const messageSuffix = `
 
-{optionalSuspensionAutoMessage}
-
-`;
+{optionalSuspensionAutoMessage}`;
 
     const messageSignature = `
 
@@ -913,8 +911,6 @@ ${userLink}
 `;
     const messageSuffix = additionalInfo + `
     
-{optionalSuspensionAutoMessage}
-
 Regards,  \n${modName}  \n${sitename} moderator`;
 
     customCmMessages.forEach(function (item, i) {
