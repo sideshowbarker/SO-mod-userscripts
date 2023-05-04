@@ -304,7 +304,7 @@ If you do include a link to something, then the link needs to be directly releva
     suspensionDefaultDays: 7,
     templateBody: `Using AI in creating any content posted anywhere on ${parentName} is [completely prohibited](https://meta.stackoverflow.com/q/421831).
 
-Some or all of your posts may have been deleted (or will be). Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
+Any of your posts that were found to be in violation of the prohibition on using AI have been deleted (or will be). Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
 
 If you believe a specific post should not have been deleted, you can raise an _"In need of moderator intervention"_ flag on that post, with an explanation, and you can request the deletion be re-evaluated.`,
   },
