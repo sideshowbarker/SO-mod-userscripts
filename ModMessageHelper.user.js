@@ -302,7 +302,7 @@ If you do include a link to something, then the link needs to be directly releva
     templateName: "low-quality answers",
     suspensionReason: "for rule violations",
     suspensionDefaultDays: 7,
-    templateBody: `One or more of your answers have been determined not to meet the quality standards for the site and have been deleted (or will be).
+    templateBody: `One or more of your answers have been determined not to meet the quality standards for the site and [have been deleted](https://stackoverflow.com/help/deleted-answers) (or will be).
 
 Common reasons for this may include:
 
