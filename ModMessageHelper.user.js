@@ -307,7 +307,7 @@ If you do include a link to something, then the link needs to be directly releva
 Common reasons for this may include:
 
 - Answers that do not address the question asked
-- Answers that contains incorrect information and does not appear to be your own original work
+- Answers that contains incorrect information and do not appear to be your own original work
 - Answers in a language other than English
 - Answers that contain code, data, or other text in images that does not also appear as text
 
