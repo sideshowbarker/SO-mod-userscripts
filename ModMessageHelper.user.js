@@ -302,7 +302,7 @@ If you do include a link to something, then the link needs to be directly releva
     templateName: "Low-quality content",
     suspensionReason: "for rule violations",
     suspensionDefaultDays: 7,
-    templateBody: `One or more of your posts have been determined not to meet the qualiy standards for the site and have been deleted (or will be). Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
+    templateBody: `One or more of your posts have been determined not to meet the quality standards for the site and have been deleted (or will be). Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
 
 If you believe a specific post should not have been deleted, you can raise an _"In need of moderator intervention"_ flag on that post, with an explanation, and you can request the deletion be re-evaluated.`,
   },
