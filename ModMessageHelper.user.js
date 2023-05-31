@@ -301,7 +301,7 @@ If you do include a link to something, then the link needs to be directly releva
     soOnly: true, // because template has SO-only meta links
     templateName: "low-quality answers",
     suspensionReason: "for rule violations",
-    suspensionDefaultDays: 7,
+    suspensionDefaultDays: 0,
     templateBody: `One or more of your answers have been determined not to meet the quality standards for the site and [have been deleted](https://stackoverflow.com/help/deleted-answers) (or will be).
 
 Common reasons for this may include:
