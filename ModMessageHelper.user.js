@@ -299,21 +299,22 @@ If you do include a link to something, then the link needs to be directly releva
   },
   {
     soOnly: true, // because template has SO-only meta links
-    templateName: "low-quality content",
+    templateName: "low-quality answers",
     suspensionReason: "for rule violations",
     suspensionDefaultDays: 7,
-    templateBody: `One or more of your posts have been determined not to meet the quality standards for the site and have been deleted (or will be).
+    templateBody: `One or more of your answers have been determined not to meet the quality standards for the site and have been deleted (or will be).
 
 Common reasons for this may include:
 
 - Answers that do not address the question asked
-- Answers that contains incorrect information and do not appear to be your own original work
+- Answers that contain incorrect information and do not appear to be your own original work
+- Answers that consist primarily of a link to an answer elsewhere
 - Answers in a language other than English
 - Answers that contain code, data, or other text in images that does not also appear as text
 
-Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile, and your "[deleted questions](${parentUrl}/users/deleted-questions/current)" page is linked to at the bottom of the [questions](${parentUrl}/users/current?tab=questions) tab in your profile.
+Your "[deleted answers](${parentUrl}/users/deleted-answers/current)" page is linked to at the bottom of the [answers](${parentUrl}/users/current?tab=answers) tab in your profile.
 
-If you believe a specific post should not have been deleted, you can raise an _"In need of moderator intervention"_ flag on that post, with an explanation, and you can request the deletion be re-evaluated.`,
+If you believe a specific answer should not have been deleted, you can raise an _"In need of moderator intervention"_ flag on that post, with an explanation, and you can request the deletion be re-evaluated.`,
   },
   {
     templateName: "voluntary suspension",
